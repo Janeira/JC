@@ -6,4 +6,5 @@
 [10 โปรเจคดีๆ สำหรับคนอยากเป็น Front-end Developer (มือใหม่) 👨‍💻💯](https://www.youtube.com/watch?v=wdLo3GHGnFw)<br>
 [วิธีเปลี่ยนจินตนาการเป็น Code ฝึกสร้าง Mobile Layout](https://www.youtube.com/watch?v=7yucHxvXg8A)<br>
 [How To Master Python](https://www.youtube.com/watch?v=IUZTbEaDo0U)<br>
-[พื้นฐานเรื่อง UX & UI กับการทำเว็บไซต์ | Web](https://www.youtube.com/watch?v=K1-QO18NdNU)
+[พื้นฐานเรื่อง UX & UI กับการทำเว็บไซต์ | Web](https://www.youtube.com/watch?v=K1-QO18NdNU)<br>
+[10 Python Projects with 10 Lines of Code](https://morioh.com/p/7ffbf70ad17a?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1Nz3tAu5dquwNE7ZVIIDSBr5OVaTidHo2lcnEYWrQB39jQsnzwH9vBYFY)<br>
