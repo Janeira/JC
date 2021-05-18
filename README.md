@@ -8,3 +8,4 @@
 [How To Master Python](https://www.youtube.com/watch?v=IUZTbEaDo0U)<br>
 [พื้นฐานเรื่อง UX & UI กับการทำเว็บไซต์ | Web](https://www.youtube.com/watch?v=K1-QO18NdNU)<br>
 [10 Python Projects with 10 Lines of Code](https://morioh.com/p/7ffbf70ad17a?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1Nz3tAu5dquwNE7ZVIIDSBr5OVaTidHo2lcnEYWrQB39jQsnzwH9vBYFY)<br>
+[Bug Debug คืออะไร บั๊ก คือ จุดบกพร่องในโปรแกรมหรือปัญหาในเครื่องคอมพิวเตอร์ ดีบั๊ก คือ การแก้ปัญหาในโปรแกรม](https://mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2020-bug-debug%20%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3)<br>
