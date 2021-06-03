@@ -10,3 +10,12 @@
 [10 Python Projects with 10 Lines of Code](https://morioh.com/p/7ffbf70ad17a?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1Nz3tAu5dquwNE7ZVIIDSBr5OVaTidHo2lcnEYWrQB39jQsnzwH9vBYFY)<br>
 [Bug Debug คืออะไร บั๊ก คือ จุดบกพร่องในโปรแกรมหรือปัญหาในเครื่องคอมพิวเตอร์ ดีบั๊ก คือ การแก้ปัญหาในโปรแกรม](https://mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2020-bug-debug%20%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3)<br>
 [11 วิธี พัฒนาทักษะการ Debug ของคุณให้ดีขึ้น](https://www.techstarthailand.com/blog/detail/How-to-Improve-Your-Debugging-Skills/801?fbclid=IwAR0YjUDXmXn7I4R42ltxlZrBS6TylUfKzWZLoc0NpX26w4VYi2TIQh8Sang)<br>
+[How to use GitHub with Pycharm in less than 7 minutes](https://www.youtube.com/watch?v=a8MckiothGc)<br>
+[PyCharm In-Depth VCS #3: Branching and Merging](https://www.youtube.com/watch?v=AHkiCKG-JhM&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP&index=13)<br>
+[PyCharm In-Depth VCS #1: Getting Started](https://www.youtube.com/watch?v=jFnYQbUZQlA&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP&index=11)<br>
+[The 1 Coding Project Idea Guaranteed To Get You A Software Development Job](https://www.youtube.com/watch?v=oC483DTjRXU)<br>
+[Introduction to Git - Remotes](https://www.youtube.com/watch?v=Gg4bLk8cGNo)<br>
+[เรียนเขียนโค้ดเริ่มต้น ภาษาไทย สำหรับเด็ก ป.2](https://proj14.ipst.ac.th/p2/p2-cs/cs-p2b1-007/?fbclid=IwAR1UzqGBgyS918l1wmLztAZqiXRcKHvvKA80y4mgUt0y2h38lhAIys_LCtQ)<br>
+[]()<br>
+[]()<br>
+[]()<br>
